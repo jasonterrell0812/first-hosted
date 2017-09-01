@@ -19,6 +19,11 @@ You must complete **90%** of the homework assignments. (You can miss **no more**
 Homework submissions **must be on time AS IS**. Late submissions will not be counted.
 
 
+#### Class Syllabus
+
+[Monday - Friday] (https://docs.google.com/spreadsheets/d/16MpGZDf5iy3_k8VpvqoaozP3MXV2DiSBMw1WsUQObFY/edit?usp=sharing)
+
+
 #### Attendance
 
 
