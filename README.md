@@ -63,7 +63,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 -----------------------------------------
 ## Technical Curriculum by Week
 
-Please see http://bootcampspot-v2.com
+Checkout ☛ [BCS](http://bootcampspot-v2.com)
 
 ##### The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
