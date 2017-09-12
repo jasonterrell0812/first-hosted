@@ -41,7 +41,7 @@ You must give a full effort on every group and individual project.
 
 #### Class Videos
 
-All videos can be found using this [insert link here]
+[All videos: Panopto] (https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2239e76766-88f0-4ea0-8c18-f9c72f41513d%22&folderSets=3)
 
 -----------------------------------------
 
@@ -49,7 +49,7 @@ All videos can be found using this [insert link here]
 ## Important Links And Notes
 
 
-[Slack Room insert link here]
+[Slack (online)](http://nu-coding911.slack.com)
 
 -----------------------------------------
 
@@ -57,7 +57,7 @@ All videos can be found using this [insert link here]
 [Homework Submission](http://bootcampspot-v2.com)
 
 
-Live Office Hours: 45 minutes before class and 30 minutes after class
+Live Office Hours: 30 minutes before class and 45 minutes after class
 
 
 -----------------------------------------
